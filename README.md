@@ -18,6 +18,7 @@ Prerequisites
 
 Repository Layout
 ----------------
+```text
 .
 ├── programs/
 │   └── blueshift_pinocchio_vault/    # On-chain Rust program
@@ -28,6 +29,7 @@ Repository Layout
 │           └── instructions/         # make.rs, take.rs, refund.rs + helpers.rs
 ├── Cargo.toml                        # Workspace manifest
 └── README.md                         # This file
+```
 
 Building
 --------
