@@ -67,16 +67,3 @@ solana program invoke \
 ```
 
 Replace with appropriate account addresses for **take** and **refund** commands.
-
-Testing
--------
-Start a local validator and run tests:
-
-```
-solana-test-validator --reset
-cargo test
-```
-
-License
--------
-Released under the MIT License.
