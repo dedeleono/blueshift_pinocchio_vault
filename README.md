@@ -1,4 +1,4 @@
-Blueshift Pinocchio Vault
+# Blueshift Pinocchio Vault
 
 A minimal Solana escrow vault program built with the [Pinocchio](https://github.com/anza-xyz/pinocchio) framework.
 This repository implements PDA-based escrow creation, SPL-token vault initialization, secure deposits, taker execution, and refunds—all in pure Rust, no Anchor or JS required.
